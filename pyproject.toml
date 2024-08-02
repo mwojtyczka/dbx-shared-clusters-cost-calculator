@@ -18,7 +18,7 @@ databricks-sdk = "^0.29.0"
 databricks-connect = "14.2.1" # cannot be higher than DBR version!
 
 [tool.poetry.group.dev.dependencies]
-black = "^24.4.2"
+black = "^24.8.0"
 flake8 = "^7.1.0"
 isort = "^5.13.2"
 mypy = "^1.10.1"
